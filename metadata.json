@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Inventory & Order Manager",
+  "description": "Production-ready enterprise dashboard system built in React and Tailwind CSS. Features dynamic bento metrics, multi-line order construction, and automated stock safety audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
