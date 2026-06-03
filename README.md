@@ -205,15 +205,13 @@ FastAPI automatically parses schemas and delivers a live operations playground a
 
 #### 1. Operations Intelligence Dashboard
 *View active stock distributions, live totals, adjustable low safety alert levels, and quick replenishment workflows.*
-![Dashboard Panel Placeholder](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop)
+![Dashboard Panel Placeholder]()
 
 #### 2. Master Product SKU Catalog
 *Audit exact SKU codes, real-time items in stock, pricing variables, and add custom entries with deep search capabilities.*
-![Catalog View Placeholder](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1200&auto=format&fit=crop)
 
 #### 3. Checkout Order Creation Terminal
 *Process billing checkouts with interactive multi-line builders, dynamic customer link selectors, and total sales recalculators.*
-![Checkout Terminal Placeholder](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)
 
 ---
 
